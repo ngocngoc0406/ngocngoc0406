@@ -1,0 +1,3 @@
+a is alphabet
+1 is digit
+, is special character
